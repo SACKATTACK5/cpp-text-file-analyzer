@@ -3,7 +3,7 @@
 A small C++ utility to perform simple analysis on files.
 
 **Overview:**
-- Purpose: quickly analyze file contents (lines, words, bytes) .
+- Purpose: quickly analyze file contents (lines, words, bytes).
 **Prerequisites:**
 - A C++ compiler.
 
